@@ -11,3 +11,5 @@
 ## Distance computation
 
 [Closest point in triangle](https://github.com/RenderKit/embree/blob/master/tutorials/common/math/closest_point.h)
+
+## Mesh offset
